@@ -1,0 +1,14 @@
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\bin\Debug\net8.0\BitsExchange.exe
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\bin\Debug\net8.0\BitsExchange.deps.json
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\bin\Debug\net8.0\BitsExchange.runtimeconfig.json
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\bin\Debug\net8.0\BitsExchange.dll
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\bin\Debug\net8.0\BitsExchange.pdb
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\BitsExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\BitsExchange.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\BitsExchange.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\BitsExchange.csproj.CoreCompileInputs.cache
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\BitsExchange.dll
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\refint\BitsExchange.dll
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\BitsExchange.pdb
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\BitsExchange.genruntimeconfig.cache
+C:\Users\KalinA\source\repos\BitsExchange\BitsExchange\obj\Debug\net8.0\ref\BitsExchange.dll
